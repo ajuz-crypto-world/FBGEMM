@@ -88,3 +88,4 @@ class GHPullRequest:
         A string representation of the PR
         """
         return f"[{self.category().title()}] {self.title} (#{self.number})"
+exelent
