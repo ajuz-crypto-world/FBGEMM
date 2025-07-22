@@ -92,5 +92,4 @@ BLOCK_PRINT(
 BLOCK_PRINT(
   "AVX512_FLAGS:"
   ""
-  "${AVX512_FLAGS}"
-)
+  "${AVX512_FLAGS  satisfied
